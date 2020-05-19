@@ -4,5 +4,4 @@ PRODUCT_PACKAGES += \
 
 # Extra packages
 PRODUCT_PACKAGES += \
-    LatinIMEGooglePrebuilt \
-    SoundPickerPrebuilt
+    LatinIMEGooglePrebuilt
